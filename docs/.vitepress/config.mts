@@ -60,7 +60,7 @@ export default defineConfig({
       { icon: 'github', link: 'https://github.com/maturest/code-know-now' }
     ],
     editLink: {
-      pattern: 'https://github.com/maturest/code-know-now/edit/main/docs/:path',
+      pattern: 'https://github.com/maturest/code-know-now/edit/main/docs/src/:path',
       text: '在 GitHub 上编辑此页面'
     },
     lastUpdated: {
