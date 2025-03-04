@@ -4,7 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "Code & Know Now",
   description: "码上求知",
-  base:'/',
+  base:'/code-know-now/',
   srcDir: './src',
   assetsDir: 'static',
   themeConfig: {
