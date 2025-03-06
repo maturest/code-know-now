@@ -39,8 +39,10 @@ export default defineConfig({
             { text: '运算符', link: '/python/operator'},
             { text: '控制流', link: '/python/control-flow'},
             { text: '函数', link: '/python/function'},
-            { text: '类', link: '/python/class' },
-            { text: '模块', link: '/python/module'},
+            { text: '面向对象', link: '/python/class' },
+            { text: '异常', link: '/python/except' },
+            { text: '模块与包', link: '/python/module'},
+            { text: '文件管理', link: '/python/file'},
             { text: '进程', link: '/python/process'},
           ]
         },
